@@ -1,4 +1,4 @@
-<h1>Hi, I'm Igor Sena 👋</h1>
+<h1>Hi, I'm Igor Sena</h1>
 
 **Blockchain software developer** based in Brazil. I build smart contracts, trading systems and on-chain analytics across EVM chains and Solana.
 
@@ -20,8 +20,6 @@
 </p>
 
 **Chains:** Ethereum · BNB Chain · Base · Arbitrum · Solana · TRON · Hyperliquid · Robinhood Chain
-
-**Web3 libraries:** ethers · web3.js · @solana/web3.js · Foundry
 
 ### Featured
 
